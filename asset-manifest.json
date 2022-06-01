@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toast-lib-test/static/css/main.83408dce.css",
+    "main.js": "/toast-lib-test/static/js/main.d814d7e1.js",
+    "index.html": "/toast-lib-test/index.html",
+    "main.83408dce.css.map": "/toast-lib-test/static/css/main.83408dce.css.map",
+    "main.d814d7e1.js.map": "/toast-lib-test/static/js/main.d814d7e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83408dce.css",
+    "static/js/main.d814d7e1.js"
+  ]
+}
